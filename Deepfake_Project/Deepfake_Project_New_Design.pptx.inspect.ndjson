@@ -1,0 +1,259 @@
+{"kind":"deck","id":"pr/03g0la","name":"Deck"}
+{"kind":"layout","layoutId":"e709621e-92ce-4c3a-bc15-21226b05f13b","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"03173e78-bfc2-401f-8f6c-e95a8c08bfdf","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/3ztai3","slide":1,"title":"MAJOR PROJECT","textShapes":9}
+{"kind":"shape","id":"sh/gfqlof6d","slide":1,"bbox":[0,0,1280,16]}
+{"kind":"shape","id":"sh/vux4vups","slide":1,"bbox":[0,610,1280,110]}
+{"kind":"textbox","id":"sh/uto3mpo7","slide":1,"text":"MAJOR PROJECT","textPreview":"MAJOR PROJECT","textChars":13,"textLines":1,"bbox":[72,72,400,30]}
+{"kind":"textbox","id":"sh/5kzm14nu","slide":1,"text":"Deepfake Image &\nFake-News Detection","textPreview":"Deepfake Image & | Fake-News Detection","textChars":36,"textLines":2,"bbox":[72,130,850,150]}
+{"kind":"textbox","id":"sh/4jq5sz69","slide":1,"text":"A lightweight multimodal screening framework with uncertainty-aware decisions","textPreview":"A lightweight multimodal screening framework with uncertainty-aware decisions","textChars":77,"textLines":1,"bbox":[76,310,850,60]}
+{"kind":"shape","id":"sh/3ih4zu5o","slide":1,"bbox":[945,95,240,240]}
+{"kind":"textbox","id":"sh/ih8nqpo3","slide":1,"text":"IMAGE","textPreview":"IMAGE","textChars":5,"textLines":1,"bbox":[980,140,170,35]}
+{"kind":"textbox","id":"sh/dojmp4nq","slide":1,"text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[980,188,170,42]}
+{"kind":"textbox","id":"sh/sna5wz65","slide":1,"text":"TEXT","textPreview":"TEXT","textChars":4,"textLines":1,"bbox":[980,245,170,35]}
+{"kind":"textbox","id":"sh/e547a9cz","slide":1,"text":"Presented by","textPreview":"Presented by","textChars":12,"textLines":1,"bbox":[72,625,150,24]}
+{"kind":"textbox","id":"sh/z6dojetk","slide":1,"text":"Venuprasad  •  J Thanmay Gowda  •  Rushikeshan  •  Vinod E","textPreview":"Venuprasad  •  J Thanmay Gowda  •  Rushikeshan  •  Vinod E","textChars":58,"textLines":1,"bbox":[230,625,880,24]}
+{"kind":"textbox","id":"sh/07mpcja5","slide":1,"text":"Guided by Dr. Chandhini A G  |  BGSCET","textPreview":"Guided by Dr. Chandhini A G  |  BGSCET","textChars":38,"textLines":1,"bbox":[72,665,800,22]}
+{"kind":"notes","id":"nt/3ztai3","slide":1,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/1tnazk","slide":2,"title":"02","textShapes":14}
+{"kind":"shape","id":"sh/nixwv610","slide":2,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/8j6x4r2l","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/9kfexwj6","slide":2,"text":"Abstract","textPreview":"Abstract","textChars":8,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/alof61kr","slide":2,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/v6xwz61c","slide":2,"text":"One application, two detection paths","textPreview":"One application, two detection paths","textChars":36,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/w76x8b2x","slide":2,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/x8ze1gji","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"textbox","id":"sh/i98falkn","slide":2,"text":"The system screens manipulated facial images and suspicious news text through independent models served by a common Flask backend.","textPreview":"The system screens manipulated facial images and suspicious news text through independent models served by a common Flask backend.","textChars":130,"textLines":1,"bbox":[72,190,660,95]}
+{"kind":"shape","id":"sh/jahg3q18","slide":2,"bbox":[72,338,9,9]}
+{"kind":"textbox","id":"sh/ret4juts","slide":2,"text":"EfficientNet-B0 for binary image classification","textPreview":"EfficientNet-B0 for binary image classification","textChars":47,"textLines":1,"bbox":[97,330,625,45]}
+{"kind":"shape","id":"sh/6dk3aps7","slide":2,"bbox":[72,400,9,9]}
+{"kind":"textbox","id":"sh/tgbmlkby","slide":2,"text":"TF-IDF + logistic regression for news patterns","textPreview":"TF-IDF + logistic regression for news patterns","textChars":46,"textLines":1,"bbox":[97,392,625,45]}
+{"kind":"shape","id":"sh/sf2lczad","slide":2,"bbox":[72,462,9,9]}
+{"kind":"textbox","id":"sh/ja94fatg","slide":2,"text":"Web and Android clients share the same REST APIs","textPreview":"Web and Android clients share the same REST APIs","textChars":48,"textLines":1,"bbox":[97,454,625,45]}
+{"kind":"shape","id":"sh/i90365sb","slide":2,"bbox":[72,524,9,9]}
+{"kind":"textbox","id":"sh/5cbmhkbm","slide":2,"text":"Low-confidence predictions are routed to manual review","textPreview":"Low-confidence predictions are routed to manual review","textChars":54,"textLines":1,"bbox":[97,516,625,45]}
+{"kind":"shape","id":"sh/4b2l8fa1","slide":2,"bbox":[800,190,380,390]}
+{"kind":"textbox","id":"sh/36d4ret0","slide":2,"text":"Core outcome","textPreview":"Core outcome","textChars":12,"textLines":1,"bbox":[840,230,300,34]}
+{"kind":"textbox","id":"sh/254ni9sf","slide":2,"text":"80.41%","textPreview":"80.41%","textChars":6,"textLines":1,"bbox":[840,290,300,80]}
+{"kind":"textbox","id":"sh/y187adcn","slide":2,"text":"image test balanced accuracy","textPreview":"image test balanced accuracy","textChars":28,"textLines":1,"bbox":[840,365,290,30]}
+{"kind":"textbox","id":"sh/z2hojid8","slide":2,"text":"Honest evaluation matters as much as model choice.","textPreview":"Honest evaluation matters as much as model choice.","textChars":50,"textLines":1,"bbox":[840,455,285,85]}
+{"kind":"notes","id":"nt/1tnazk","slide":2,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/xpvtrx","slide":3,"title":"03","textShapes":12}
+{"kind":"shape","id":"sh/el0n2pc7","slide":3,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/1ormxkbi","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/0ni54fux","slide":3,"text":"Introduction","textPreview":"Introduction","textChars":12,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/nqt4zuto","slide":3,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/mpkn6pc3","slide":3,"text":"Digital trust requires evidence from both pixels and language","textPreview":"Digital trust requires evidence from both pixels and language","textChars":61,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/9sb614bu","slide":3,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/8r258zu9","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"textbox","id":"sh/3up4nqtk","slide":3,"text":"WHY IT MATTERS","textPreview":"WHY IT MATTERS","textChars":14,"textLines":1,"bbox":[72,185,260,28]}
+{"kind":"textbox","id":"sh/2tg3ulcz","slide":3,"text":"Synthetic faces and fast-moving misinformation can appear credible while carrying weak or manipulated evidence.","textPreview":"Synthetic faces and fast-moving misinformation can appear credible while carrying weak or manipulated evidence.","textChars":111,"textLines":1,"bbox":[72,225,515,120]}
+{"kind":"shape","id":"sh/kne14be5","slide":3,"bbox":[660,190,480,145]}
+{"kind":"textbox","id":"sh/lon2dgfa","slide":3,"text":"IMAGE PATH","textPreview":"IMAGE PATH","textChars":10,"textLines":1,"bbox":[695,220,170,24]}
+{"kind":"textbox","id":"sh/ylcj21wz","slide":3,"text":"Learns spatial artifacts, texture inconsistencies and facial manipulation cues.","textPreview":"Learns spatial artifacts, texture inconsistencies and facial manipulation cues.","textChars":79,"textLines":1,"bbox":[695,255,390,65]}
+{"kind":"shape","id":"sh/zm50b6xk","slide":3,"bbox":[660,365,480,145]}
+{"kind":"textbox","id":"sh/8be18ve1","slide":3,"text":"TEXT PATH","textPreview":"TEXT PATH","textChars":9,"textLines":1,"bbox":[695,395,170,24]}
+{"kind":"textbox","id":"sh/9cn2hgfm","slide":3,"text":"Learns vocabulary and language patterns—but cannot independently prove a claim true.","textPreview":"Learns vocabulary and language patterns—but cannot independently prove a claim true.","textChars":84,"textLines":1,"bbox":[695,430,390,65]}
+{"kind":"textbox","id":"sh/mpwj6lwv","slide":3,"text":"The project combines both paths without pretending they are the same problem.","textPreview":"The project combines both paths without pretending they are the same problem.","textChars":77,"textLines":1,"bbox":[72,500,500,95]}
+{"kind":"notes","id":"nt/xpvtrx","slide":3,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\nhttps://doi.org/10.1109/ICCV.2019.00009\nhttps://arxiv.org/abs/1809.01286\n[/Sources]"}
+{"kind":"slide","id":"sl/c76s0h","slide":4,"title":"04","textShapes":5}
+{"kind":"shape","id":"sh/1c3m94zi","slide":4,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/e9cnyp0r","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/zal47uhc","slide":4,"text":"Literature Survey","textPreview":"Literature Survey","textChars":17,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/oze54jit","slide":4,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/90nmdoze","slide":4,"text":"Prior work motivates a lightweight multimodal design","textPreview":"Prior work motivates a lightweight multimodal design","textChars":52,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/mxwn2903","slide":4,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/ny54beh8","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"table","id":"tb/xoba10r2","slide":4,"name":"","rows":4,"cols":4,"preview":"Study | Focus | Method | Project insight","bbox":[72,190,1136,390]}
+{"kind":"notes","id":"nt/c76s0h","slide":4,"text":"[Sources]\nhttps://doi.org/10.1109/ICCV.2019.00009\nhttps://arxiv.org/abs/1809.01286\nhttps://aclanthology.org/2020.lrec-1.755/\n[/Sources]"}
+{"kind":"slide","id":"sl/ss3f1k","slide":5,"title":"05","textShapes":15}
+{"kind":"shape","id":"sh/buxsnudo","slide":5,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/cv6twze9","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/dwzap4vu","slide":5,"text":"Problem Statement","textPreview":"Problem Statement","textChars":17,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/yx8by9wf","slide":5,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/zyhsred0","slide":5,"text":"Current screening tools create three practical risks","textPreview":"Current screening tools create three practical risks","textChars":52,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/0zqt0ze5","slide":5,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/l0zut4vq","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"shape","id":"sh/m18b29cb","slide":5,"bbox":[72,210,340,310]}
+{"kind":"textbox","id":"sh/nmhcvedw","slide":5,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[100,235,70,40]}
+{"kind":"textbox","id":"sh/r69obylg","slide":5,"text":"FRAGMENTED","textPreview":"FRAGMENTED","textChars":10,"textLines":1,"bbox":[100,300,280,35]}
+{"kind":"textbox","id":"sh/q50n2tkv","slide":5,"text":"Image and news checks are usually performed in separate systems.","textPreview":"Image and news checks are usually performed in separate systems.","textChars":64,"textLines":1,"bbox":[100,355,275,110]}
+{"kind":"shape","id":"sh/d8r6d83m","slide":5,"bbox":[452,210,340,310]}
+{"kind":"textbox","id":"sh/s7i54321","slide":5,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[480,235,70,40]}
+{"kind":"textbox","id":"sh/32p47ylk","slide":5,"text":"BRITTLE","textPreview":"BRITTLE","textChars":7,"textLines":1,"bbox":[480,300,280,35]}
+{"kind":"textbox","id":"sh/i1gnytkz","slide":5,"text":"Models can weaken on unseen generators, compression and new sources.","textPreview":"Models can weaken on unseen generators, compression and new sources.","textChars":68,"textLines":1,"bbox":[480,355,275,110]}
+{"kind":"shape","id":"sh/54r69o3a","slide":5,"bbox":[832,210,340,310]}
+{"kind":"textbox","id":"sh/43y50325","slide":5,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[860,235,70,40]}
+{"kind":"textbox","id":"sh/nytojilo","slide":5,"text":"OVERCONFIDENT","textPreview":"OVERCONFIDENT","textChars":13,"textLines":1,"bbox":[860,300,280,35]}
+{"kind":"textbox","id":"sh/2xknadk3","slide":5,"text":"Forced binary labels can hide ambiguity and mislead users.","textPreview":"Forced binary labels can hide ambiguity and mislead users.","textChars":58,"textLines":1,"bbox":[860,355,275,110]}
+{"kind":"textbox","id":"sh/yt4r2h4b","slide":5,"text":"Need: one deployable, uncertainty-aware screening service.","textPreview":"Need: one deployable, uncertainty-aware screening service.","textChars":58,"textLines":1,"bbox":[72,575,1100,45]}
+{"kind":"notes","id":"nt/ss3f1k","slide":5,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/5outni","slide":6,"title":"06","textShapes":15}
+{"kind":"shape","id":"sh/29kvetw7","slide":6,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/9cbup8vy","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/ob2dg3ed","slide":6,"text":"Research Gap","textPreview":"Research Gap","textChars":12,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/f69cjydw","slide":6,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/el0vatwb","slide":6,"text":"The missing piece is responsible integration","textPreview":"The missing piece is responsible integration","textChars":44,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/18rul8vm","slide":6,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/07idc3eh","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"textbox","id":"sh/j2dwvid0","slide":6,"text":"What existing work often does","textPreview":"What existing work often does","textChars":29,"textLines":1,"bbox":[72,195,460,34]}
+{"kind":"shape","id":"sh/yh4vmdwf","slide":6,"bbox":[72,263,9,9]}
+{"kind":"textbox","id":"sh/wjup4j69","slide":6,"text":"Optimizes a single modality","textPreview":"Optimizes a single modality","textChars":27,"textLines":1,"bbox":[97,255,455,45]}
+{"kind":"shape","id":"sh/xk36x4nu","slide":6,"bbox":[72,328,9,9]}
+{"kind":"textbox","id":"sh/axcn29oj","slide":6,"text":"Uses random splits that hide source shift","textPreview":"Uses random splits that hide source shift","textChars":41,"textLines":1,"bbox":[97,320,455,45]}
+{"kind":"shape","id":"sh/bilove54","slide":6,"bbox":[72,393,9,9]}
+{"kind":"textbox","id":"sh/ova50z6d","slide":6,"text":"Returns confident labels for borderline cases","textPreview":"Returns confident labels for borderline cases","textChars":45,"textLines":1,"bbox":[97,385,455,45]}
+{"kind":"shape","id":"sh/9wj6t4ny","slide":6,"bbox":[72,458,9,9]}
+{"kind":"textbox","id":"sh/mtsnypo7","slide":6,"text":"Stops at model evaluation","textPreview":"Stops at model evaluation","textChars":25,"textLines":1,"bbox":[97,450,455,45]}
+{"kind":"shape","id":"sh/nu1oru5s","slide":6,"bbox":[610,185,4,430]}
+{"kind":"textbox","id":"sh/0ra5wz6h","slide":6,"text":"What this project adds","textPreview":"What this project adds","textChars":22,"textLines":1,"bbox":[680,195,460,34]}
+{"kind":"shape","id":"sh/1sj6pknm","slide":6,"bbox":[680,263,9,9]}
+{"kind":"textbox","id":"sh/hcrudwbe","slide":6,"text":"Unified image and text screening","textPreview":"Unified image and text screening","textChars":32,"textLines":1,"bbox":[705,255,455,45]}
+{"kind":"shape","id":"sh/gbid4rut","slide":6,"bbox":[680,328,9,9]}
+{"kind":"textbox","id":"sh/va9cbmd8","slide":6,"text":"Source-held-out evaluation for news","textPreview":"Source-held-out evaluation for news","textChars":35,"textLines":1,"bbox":[705,320,455,45]}
+{"kind":"shape","id":"sh/u90v2hcn","slide":6,"bbox":[680,393,9,9]}
+{"kind":"textbox","id":"sh/t8ru9cvi","slide":6,"text":"Explicit “manual review” outcomes","textPreview":"Explicit “manual review” outcomes","textChars":33,"textLines":1,"bbox":[705,385,455,45]}
+{"kind":"shape","id":"sh/87yd07ux","slide":6,"bbox":[680,458,9,9]}
+{"kind":"textbox","id":"sh/76pc72dc","slide":6,"text":"Web and Android deployment","textPreview":"Web and Android deployment","textChars":26,"textLines":1,"bbox":[705,450,455,45]}
+{"kind":"notes","id":"nt/5outni","slide":6,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/qmfkpr","slide":7,"title":"07","textShapes":20}
+{"kind":"shape","id":"sh/nmtormx8","slide":7,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/on2p0ryt","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/pov6twfe","slide":7,"text":"Objectives","textPreview":"Objectives","textChars":10,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/ap4721gz","slide":7,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/bqd8v6xk","slide":7,"text":"Build, evaluate and deploy without overstating certainty","textPreview":"Build, evaluate and deploy without overstating certainty","textChars":56,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/cbmp4by5","slide":7,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/xcvqxwfa","slide":7,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"textbox","id":"sh/yd4761gv","slide":7,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,185,55,28]}
+{"kind":"textbox","id":"sh/zed8z6xg","slide":7,"text":"Detect","textPreview":"Detect","textChars":6,"textLines":1,"bbox":[145,181,180,38]}
+{"kind":"textbox","id":"sh/ri9cb61w","slide":7,"text":"Manipulated facial images with transfer learning.","textPreview":"Manipulated facial images with transfer learning.","textChars":49,"textLines":1,"bbox":[340,185,790,38]}
+{"kind":"shape","id":"sh/6h0vi1kb","slide":7,"bbox":[145,233,980,1]}
+{"kind":"textbox","id":"sh/tkrudgj2","slide":7,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[72,273,55,28]}
+{"kind":"textbox","id":"sh/sjidkb2h","slide":7,"text":"Screen","textPreview":"Screen","textChars":6,"textLines":1,"bbox":[145,269,180,38]}
+{"kind":"textbox","id":"sh/jepc761k","slide":7,"text":"Suspicious news using sparse language features.","textPreview":"Suspicious news using sparse language features.","textChars":47,"textLines":1,"bbox":[340,273,790,38]}
+{"kind":"shape","id":"sh/idgve1kz","slide":7,"bbox":[145,321,980,1]}
+{"kind":"textbox","id":"sh/5gru9wjq","slide":7,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[72,361,55,28]}
+{"kind":"textbox","id":"sh/4fidgr25","slide":7,"text":"Evaluate","textPreview":"Evaluate","textChars":8,"textLines":1,"bbox":[145,357,180,38]}
+{"kind":"textbox","id":"sh/3atwjq14","slide":7,"text":"Balanced image metrics and held-out news sources.","textPreview":"Balanced image metrics and held-out news sources.","textChars":49,"textLines":1,"bbox":[340,361,790,38]}
+{"kind":"shape","id":"sh/29kvql0j","slide":7,"bbox":[145,409,980,1]}
+{"kind":"textbox","id":"sh/y54fip4r","slide":7,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[72,449,55,28]}
+{"kind":"textbox","id":"sh/z6xgbulc","slide":7,"text":"Calibrate","textPreview":"Calibrate","textChars":9,"textLines":1,"bbox":[145,445,180,38]}
+{"kind":"textbox","id":"sh/076xkzmx","slide":7,"text":"Thresholds and uncertainty rejection.","textPreview":"Thresholds and uncertainty rejection.","textChars":37,"textLines":1,"bbox":[340,449,790,38]}
+{"kind":"shape","id":"sh/l8fyd432","slide":7,"bbox":[145,497,980,1]}
+{"kind":"textbox","id":"sh/m9ofm9kn","slide":7,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[72,537,55,28]}
+{"kind":"textbox","id":"sh/naxgful8","slide":7,"text":"Deploy","textPreview":"Deploy","textChars":6,"textLines":1,"bbox":[145,533,180,38]}
+{"kind":"textbox","id":"sh/8b6xoz2t","slide":7,"text":"Shared Flask APIs for web and Android.","textPreview":"Shared Flask APIs for web and Android.","textChars":38,"textLines":1,"bbox":[340,537,790,38]}
+{"kind":"shape","id":"sh/9cfyh43e","slide":7,"bbox":[145,585,980,1]}
+{"kind":"notes","id":"nt/qmfkpr","slide":7,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/uc0c6v","slide":8,"title":"08","textShapes":9}
+{"kind":"shape","id":"sh/50zul03u","slide":8,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/idoba54j","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/3yxcjal4","slide":8,"text":"Methodology","textPreview":"Methodology","textChars":11,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/s3qtgfml","slide":8,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/d4zupk36","slide":8,"text":"Two independent inference paths converge at one service","textPreview":"Two independent inference paths converge at one service","textChars":55,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/q18be54f","slide":8,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/r2hcnal0","slide":8,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"shape","id":"sh/t8vadg32","slide":8,"bbox":[900,180,280,450]}
+{"kind":"textbox","id":"sh/lc3e5c7q","slide":8,"text":"IMAGE","textPreview":"IMAGE","textChars":5,"textLines":1,"bbox":[935,220,210,28]}
+{"kind":"textbox","id":"sh/kbuxc765","slide":8,"text":"22,044 faces\n70 / 15 / 15 split\nEfficientNet-B0\nThreshold calibration","textPreview":"22,044 faces | 70 / 15 / 15 split | EfficientNet-B0 | Threshold calibration","textChars":69,"textLines":4,"bbox":[935,265,210,145]}
+{"kind":"shape","id":"sh/zalw32p0","slide":8,"bbox":[935,425,190,2]}
+{"kind":"textbox","id":"sh/y9cfaxof","slide":8,"text":"TEXT","textPreview":"TEXT","textChars":4,"textLines":1,"bbox":[935,455,210,28]}
+{"kind":"textbox","id":"sh/t0ny9c72","slide":8,"text":"186,032 records\nTF-IDF uni/bigrams\nLogistic regression\nHeld-out source test","textPreview":"186,032 records | TF-IDF uni/bigrams | Logistic regression | Held-out source test","textChars":75,"textLines":4,"bbox":[935,500,210,115]}
+{"kind":"image","id":"im/9oj6xkbi","slide":8,"name":"","alt":"Deepfake and fake-news detection system architecture","bbox":[90,175,760,450]}
+{"kind":"notes","id":"nt/uc0c6v","slide":8,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\nLocal project figure: paper_architecture.png\n[/Sources]"}
+{"kind":"slide","id":"sl/vmmwaa","slide":9,"title":"09","textShapes":16}
+{"kind":"shape","id":"sh/by1432pg","slide":9,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/wzalc7ql","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/x0jm5c76","slide":9,"text":"Technology Used","textPreview":"Technology Used","textChars":15,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/i1c3eh8r","slide":9,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/j2l47mpc","slide":9,"text":"A lightweight stack supports training, serving and mobile access","textPreview":"A lightweight stack supports training, serving and mobile access","textChars":64,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/k3ulgrqx","slide":9,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/5o3m9c7i","slide":9,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"shape","id":"sh/e5832d8n","slide":9,"bbox":[72,210,195,290]}
+{"kind":"textbox","id":"sh/z6hkvip8","slide":9,"text":"MODEL","textPreview":"MODEL","textChars":5,"textLines":1,"bbox":[94,240,150,24]}
+{"kind":"textbox","id":"sh/j61s7ep4","slide":9,"text":"TensorFlow / Keras\nEfficientNet-B0","textPreview":"TensorFlow / Keras | EfficientNet-B0","textChars":34,"textLines":2,"bbox":[94,295,150,100]}
+{"kind":"shape","id":"sh/ylsbe9oj","slide":9,"bbox":[297,210,195,290]}
+{"kind":"textbox","id":"sh/l8ja9o7a","slide":9,"text":"TEXT","textPreview":"TEXT","textChars":4,"textLines":1,"bbox":[319,240,150,24]}
+{"kind":"textbox","id":"sh/k7atgj6p","slide":9,"text":"scikit-learn\nTF-IDF + Logistic Regression","textPreview":"scikit-learn | TF-IDF + Logistic Regression","textChars":41,"textLines":2,"bbox":[319,295,150,100]}
+{"kind":"shape","id":"sh/bihs3up8","slide":9,"bbox":[522,210,195,290]}
+{"kind":"textbox","id":"sh/ah8rapon","slide":9,"text":"BACKEND","textPreview":"BACKEND","textChars":7,"textLines":1,"bbox":[544,240,150,24]}
+{"kind":"textbox","id":"sh/xkja547e","slide":9,"text":"Python / Flask\nREST + JSON","textPreview":"Python / Flask | REST + JSON","textChars":26,"textLines":2,"bbox":[544,295,150,100]}
+{"kind":"shape","id":"sh/wjq9cz6t","slide":9,"bbox":[747,210,195,290]}
+{"kind":"textbox","id":"sh/nehszupw","slide":9,"text":"CLIENTS","textPreview":"CLIENTS","textChars":7,"textLines":1,"bbox":[769,240,150,24]}
+{"kind":"textbox","id":"sh/md8r6por","slide":9,"text":"HTML/CSS/JS\nNative Android","textPreview":"HTML/CSS/JS | Native Android","textChars":26,"textLines":2,"bbox":[769,295,150,100]}
+{"kind":"shape","id":"sh/q9obipsj","slide":9,"bbox":[972,210,195,290]}
+{"kind":"textbox","id":"sh/raxsbu94","slide":9,"text":"VISION","textPreview":"VISION","textChars":6,"textLines":1,"bbox":[994,240,150,24]}
+{"kind":"textbox","id":"sh/sb6tkza9","slide":9,"text":"OpenCV / Pillow\nArtifact maps","textPreview":"OpenCV / Pillow | Artifact maps","textChars":29,"textLines":2,"bbox":[994,295,150,100]}
+{"kind":"textbox","id":"sh/dcfudkru","slide":9,"text":"Deployment principle: model artifacts remain separate from interface code, enabling controlled upgrades.","textPreview":"Deployment principle: model artifacts remain separate from interface code, enabling controlled upgrades.","textChars":104,"textLines":1,"bbox":[72,560,1080,55]}
+{"kind":"notes","id":"nt/vmmwaa","slide":9,"text":"[Sources]\nLocal implementation: app.py, requirements files, Android application source\n[/Sources]"}
+{"kind":"slide","id":"sl/87u35x","slide":10,"title":"10","textShapes":9}
+{"kind":"shape","id":"sh/yl0769wz","slide":10,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/l8r614fq","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/knipsze5","slide":10,"text":"Experimental Results","textPreview":"Experimental Results","textChars":20,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/bipovux8","slide":10,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/qhg72pw3","slide":10,"text":"Image detection is promising; cross-source news transfer remains weak","textPreview":"Image detection is promising; cross-source news transfer remains weak","textChars":69,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/xkr6x4fe","slide":10,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/cjip4zet","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"shape","id":"sh/udk7ytw7","slide":10,"bbox":[830,205,350,155]}
+{"kind":"textbox","id":"sh/gjqtob65","slide":10,"text":"84.73%","textPreview":"84.73%","textChars":6,"textLines":1,"bbox":[865,235,285,55]}
+{"kind":"textbox","id":"sh/1kzuhgnq","slide":10,"text":"real-image recall","textPreview":"real-image recall","textChars":17,"textLines":1,"bbox":[865,295,250,25]}
+{"kind":"shape","id":"sh/eh8bm1oz","slide":10,"bbox":[830,390,350,190]}
+{"kind":"textbox","id":"sh/fihcf65k","slide":10,"text":"Key limitation","textPreview":"Key limitation","textChars":14,"textLines":1,"bbox":[865,420,250,25]}
+{"kind":"textbox","id":"sh/sv6tkr6t","slide":10,"text":"Fake-news recall on the unseen source was only 15.5%.","textPreview":"Fake-news recall on the unseen source was only 15.5%.","textChars":53,"textLines":1,"bbox":[865,465,250,75]}
+{"kind":"chart","id":"ch/7i5kn2p8","slide":10,"name":"","chartType":"bar","bbox":[72,200,690,380]}
+{"kind":"notes","id":"nt/87u35x","slide":10,"text":"[Sources]\nLocal stored experiment metadata summarized in Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/61w5y7","slide":11,"title":"11","textShapes":16}
+{"kind":"shape","id":"sh/tcrihwvq","slide":11,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/6pgz61wf","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/rqp0fmdk","slide":11,"text":"Conclusion","textPreview":"Conclusion","textChars":10,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/4nyh4re9","slide":11,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/5o7idwvu","slide":11,"text":"The framework is useful when uncertainty remains visible","textPreview":"The framework is useful when uncertainty remains visible","textChars":56,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/ilgz2hw3","slide":11,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/jmp0bmdo","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"textbox","id":"sh/oj21gbed","slide":11,"text":"What was achieved","textPreview":"What was achieved","textChars":17,"textLines":1,"bbox":[72,190,440,35]}
+{"kind":"shape","id":"sh/pkbipgvy","slide":11,"bbox":[72,263,9,9]}
+{"kind":"textbox","id":"sh/d8rutkbu","slide":11,"text":"One service for image and news screening","textPreview":"One service for image and news screening","textChars":40,"textLines":1,"bbox":[97,255,475,45]}
+{"kind":"shape","id":"sh/c7idkza9","slide":11,"bbox":[72,328,9,9]}
+{"kind":"textbox","id":"sh/b69cruto","slide":11,"text":"80.41% image balanced accuracy","textPreview":"80.41% image balanced accuracy","textChars":30,"textLines":1,"bbox":[97,320,475,45]}
+{"kind":"shape","id":"sh/ql0bips3","slide":11,"bbox":[72,393,9,9]}
+{"kind":"textbox","id":"sh/pk7upkbi","slide":11,"text":"Web and Android access","textPreview":"Web and Android access","textChars":22,"textLines":1,"bbox":[97,385,475,45]}
+{"kind":"shape","id":"sh/ojytgfax","slide":11,"bbox":[72,458,9,9]}
+{"kind":"textbox","id":"sh/3ipcnatc","slide":11,"text":"Manual-review state for weak predictions","textPreview":"Manual-review state for weak predictions","textChars":40,"textLines":1,"bbox":[97,450,475,45]}
+{"kind":"shape","id":"sh/2hgbe5s7","slide":11,"bbox":[620,180,4,430]}
+{"kind":"textbox","id":"sh/9gbu14bm","slide":11,"text":"What comes next","textPreview":"What comes next","textChars":15,"textLines":1,"bbox":[690,190,440,35]}
+{"kind":"shape","id":"sh/8f2dsjah","slide":11,"bbox":[690,263,9,9]}
+{"kind":"textbox","id":"sh/svu5k7mp","slide":11,"text":"Complete EfficientNetV2 V3 training","textPreview":"Complete EfficientNetV2 V3 training","textChars":35,"textLines":1,"bbox":[715,255,445,45]}
+{"kind":"shape","id":"sh/tw36dc3a","slide":11,"bbox":[690,328,9,9]}
+{"kind":"textbox","id":"sh/6tcnih4j","slide":11,"text":"Test on external deepfake datasets","textPreview":"Test on external deepfake datasets","textChars":34,"textLines":1,"bbox":[715,320,445,45]}
+{"kind":"shape","id":"sh/rulob2l4","slide":11,"bbox":[690,393,9,9]}
+{"kind":"textbox","id":"sh/4ra5g7mt","slide":11,"text":"Add evidence retrieval for textual claims","textPreview":"Add evidence retrieval for textual claims","textChars":41,"textLines":1,"bbox":[715,385,445,45]}
+{"kind":"shape","id":"sh/5sj69c3y","slide":11,"bbox":[690,458,9,9]}
+{"kind":"textbox","id":"sh/ipsnex4n","slide":11,"text":"Move to authenticated HTTPS deployment","textPreview":"Move to authenticated HTTPS deployment","textChars":38,"textLines":1,"bbox":[715,450,445,45]}
+{"kind":"textbox","id":"sh/jq1o72l8","slide":11,"text":"Decision support—not forensic proof.","textPreview":"Decision support—not forensic proof.","textChars":36,"textLines":1,"bbox":[690,555,420,45]}
+{"kind":"notes","id":"nt/61w5y7","slide":11,"text":"[Sources]\nLocal project source: Deepfake_Misinformation_Detection_IEEE_Paper.docx\n[/Sources]"}
+{"kind":"slide","id":"sl/tttqpg","slide":12,"title":"12","textShapes":14}
+{"kind":"shape","id":"sh/4jqtgfa1","slide":12,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/3ihcnatg","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[62,35,65,26]}
+{"kind":"textbox","id":"sh/2h8be5sv","slide":12,"text":"References","textPreview":"References","textChars":10,"textLines":1,"bbox":[62,70,1100,60]}
+{"kind":"shape","id":"sh/dozut4ri","slide":12,"bbox":[62,140,84,5]}
+{"kind":"textbox","id":"sh/cnqdkzax","slide":12,"text":"Selected foundations for the project","textPreview":"Selected foundations for the project","textChars":36,"textLines":1,"bbox":[165,132,980,28]}
+{"kind":"textbox","id":"sh/rmhcru9c","slide":12,"text":"BGSCET  •  Department of AI & Data Science","textPreview":"BGSCET  •  Department of AI & Data Science","textChars":42,"textLines":1,"bbox":[62,680,520,20]}
+{"kind":"textbox","id":"sh/ql8bipsr","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1180,680,40,20]}
+{"kind":"textbox","id":"sh/1cjux4re","slide":12,"text":"[1] A. Rössler et al., “FaceForensics++,” ICCV, 2019.","textPreview":"[1] A. Rössler et al., “FaceForensics++,” ICCV, 2019.","textChars":53,"textLines":1,"bbox":[72,190,520,72]}
+{"kind":"shape","id":"sh/0badozat","slide":12,"bbox":[72,268,500,1]}
+{"kind":"textbox","id":"sh/ed4fihgn","slide":12,"text":"[2] K. Shu et al., “FakeNewsNet,” arXiv:1809.01286, 2018.","textPreview":"[2] K. Shu et al., “FakeNewsNet,” arXiv:1809.01286, 2018.","textChars":57,"textLines":1,"bbox":[72,295,520,72]}
+{"kind":"shape","id":"sh/zedgr2x8","slide":12,"bbox":[72,373,500,1]}
+{"kind":"textbox","id":"sh/0fmhk7yt","slide":12,"text":"[3] M. Sandler et al., “MobileNetV2,” CVPR, 2018.","textPreview":"[3] M. Sandler et al., “MobileNetV2,” CVPR, 2018.","textChars":49,"textLines":1,"bbox":[72,400,520,72]}
+{"kind":"shape","id":"sh/1gvytcfe","slide":12,"bbox":[72,478,500,1]}
+{"kind":"textbox","id":"sh/m14zmhwj","slide":12,"text":"[4] M. Tan and Q. Le, “EfficientNet,” ICML, 2019.","textPreview":"[4] M. Tan and Q. Le, “EfficientNet,” ICML, 2019.","textChars":49,"textLines":1,"bbox":[72,505,520,72]}
+{"kind":"shape","id":"sh/n2dgvmx4","slide":12,"bbox":[72,583,500,1]}
+{"kind":"textbox","id":"sh/o36horep","slide":12,"text":"[5] M. Tan and Q. Le, “EfficientNetV2,” ICML, 2021.","textPreview":"[5] M. Tan and Q. Le, “EfficientNetV2,” ICML, 2021.","textChars":51,"textLines":1,"bbox":[642,190,520,72]}
+{"kind":"shape","id":"sh/94fyxwfa","slide":12,"bbox":[642,268,500,1]}
+{"kind":"textbox","id":"sh/25kfadgf","slide":12,"text":"[6] J. Thorne et al., “FEVER,” NAACL-HLT, 2018.","textPreview":"[6] J. Thorne et al., “FEVER,” NAACL-HLT, 2018.","textChars":47,"textLines":1,"bbox":[642,295,520,72]}
+{"kind":"shape","id":"sh/36tgjix0","slide":12,"bbox":[642,373,500,1]}
+{"kind":"textbox","id":"sh/7qpcreds","slide":12,"text":"[7] K. Nakamura et al., “r/Fakeddit,” LREC, 2020.","textPreview":"[7] K. Nakamura et al., “r/Fakeddit,” LREC, 2020.","textChars":49,"textLines":1,"bbox":[642,400,520,72]}
+{"kind":"shape","id":"sh/6pgvitw7","slide":12,"bbox":[642,478,500,1]}
+{"kind":"textbox","id":"sh/tc7etovy","slide":12,"text":"[8] T.-Y. Lin et al., “Focal Loss,” ICCV, 2017.","textPreview":"[8] T.-Y. Lin et al., “Focal Loss,” ICCV, 2017.","textChars":47,"textLines":1,"bbox":[642,505,520,72]}
+{"kind":"shape","id":"sh/sbydkjed","slide":12,"bbox":[642,583,500,1]}
+{"kind":"textbox","id":"sh/jmpcnedw","slide":12,"text":"Thank you","textPreview":"Thank you","textChars":9,"textLines":1,"bbox":[72,625,1100,40]}
+{"kind":"notes","id":"nt/tttqpg","slide":12,"text":"[Sources]\nhttps://doi.org/10.1109/ICCV.2019.00009\nhttps://arxiv.org/abs/1809.01286\nhttps://proceedings.mlr.press/v97/tan19a.html\nhttps://aclanthology.org/N18-1074/\nhttps://aclanthology.org/2020.lrec-1.755/\n[/Sources]"}

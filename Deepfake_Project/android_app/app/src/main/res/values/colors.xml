@@ -1,0 +1,12 @@
+<resources>
+    <color name="app_background">#F4F6FA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="ink">#172033</color>
+    <color name="ink_muted">#657087</color>
+    <color name="brand">#4A5FE7</color>
+    <color name="brand_dark">#3547C5</color>
+    <color name="brand_soft">#EEF0FF</color>
+    <color name="accent">#058A7D</color>
+    <color name="stroke">#DDE2EC</color>
+    <color name="result_surface">#F1F4F9</color>
+</resources>
